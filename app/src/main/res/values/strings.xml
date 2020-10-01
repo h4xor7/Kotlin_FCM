@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinFCM</string>
+    <string name="default_notification_channel_id">Default Notification Channel</string>
+    <string name="notification_channel_id">Notification Channel Id</string>
+    <string name="notification_title">Notification title</string>
+    <string name="snooze">Snooze</string>
+</resources>
